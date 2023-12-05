@@ -1,2 +1,2 @@
 # recipe
-HTML kullanarak tarif sayfası oluştur. HTML ve Git becerilerimi sağlamlaştırmak için bu projeyi gerçekleştiriyorum.
+HTML kullanarak tarif sayfası oluşturacağım. HTML ve Git becerilerimi sağlamlaştırmak için bu projeyi gerçekleştiriyorum.
